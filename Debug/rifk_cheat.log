@@ -1,0 +1,127 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  c_rifk.cpp
+  c_aimhelper.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_animation_system.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_antiaim.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\hacks\c_antiaim.cpp(139): warning C4018: '<=': signed/unsigned mismatch
+c:\users\will_\desktop\fbi\cheats\new rifk\hacks\c_antiaim.cpp(141): warning C4018: '>=': signed/unsigned mismatch
+c:\users\will_\desktop\fbi\cheats\new rifk\hacks\c_antiaim.cpp(175): warning C4018: '<=': signed/unsigned mismatch
+c:\users\will_\desktop\fbi\cheats\new rifk\hacks\c_antiaim.cpp(180): warning C4018: '>=': signed/unsigned mismatch
+  c_chams.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_esp.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_fake_ping.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_hitmarker.cpp
+  c_legitbot.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_miscellaneous.cpp
+  c_movement.cpp
+  c_prediction_system.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_ragebot.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_resolver.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_trace_system.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\hacks\c_trace_system.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  c_client.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_client_mode_shared.cpp
+  c_cs_player_.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_events.cpp
+  c_hooks.cpp
+  Generating Code...
+  Compiling...
+  c_model_render_.cpp
+  c_net_channel_.cpp
+  c_prediction_.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\hooks\c_prediction_.cpp(103): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+  c_surface_.cpp
+  c_wnd_proc.cpp
+  idirect3ddevice9.cpp
+  c_conf.cpp
+  c_menu.cpp
+  c_welcome_message.cpp
+  c_button.cpp
+  c_checkbox.cpp
+  c_color_select.cpp
+  c_flow_layout.cpp
+  c_group_box.cpp
+  c_hotkey_select.cpp
+  c_image.cpp
+  c_navbar.cpp
+  c_navbar_tab.cpp
+  c_router.cpp
+  c_select.cpp
+  Generating Code...
+  Compiling...
+  c_text.cpp
+  c_indicators.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  c_cs_player.cpp
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\will_\desktop\fbi\cheats\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  sounds.cpp
+  c_hotkeys.cpp
+  c_log.cpp
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/errorlimit:0'; ignored
+LINK : warning LNK4044: unrecognized option '/errorlimit:0'; ignored
+     Creating library C:\Virtuosity\builds\rifk_cheat.lib and object C:\Virtuosity\builds\rifk_cheat.exp
+  rifk_cheat.vcxproj -> C:\Virtuosity\builds\rifk_cheat.dll

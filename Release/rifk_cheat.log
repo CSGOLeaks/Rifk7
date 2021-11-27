@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : Command line warning D9025: overriding '/sdl-' with '/GS-'
+  c_client.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\xlocale(319): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+c:\virtuosity.project\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\virtuosity.project\new rifk\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\virtuosity.project\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\virtuosity.project\new rifk\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  dll.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     Creating library C:\Virtuosity\builds\rifk_cheat.lib and object C:\Virtuosity\builds\rifk_cheat.exp
+  Generating code
+  Finished generating code
+  rifk_cheat.vcxproj -> C:\Virtuosity\builds\rifk_cheat.dll
